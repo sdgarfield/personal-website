@@ -1,23 +1,28 @@
 h1{text-align: center;
-    padding: 10px;}
+    padding: 20px;
+    background-color: rgb(0, 209, 66);}
 
 h3{text-align: center;
-    padding: 3px;}
+    padding: 20px;}
 
 h4{text-align: center;
-    padding: 3px;}
+    padding: 20px;}
 
-#black{padding: 3px;}
+#black{padding: 40px;}
 
 #blurb2{text-align: center;
-    padding: 3px;}
+    padding: 20px;}
 
-#penguin{padding: 3px;}
+#penguin{padding: 40px;}
 
 #blurb3{text-align: center;
-    padding: 3px;}
+    padding: 20px;}
 
-#hat{padding: 3px;}
+#hat{padding: 40px;}
 
-form{padding: 10px;
-    line-height: 2;}
+form{background-color: pink;
+    
+    padding: 30px;
+    line-height: 2;
+    text-align: center;}
+
